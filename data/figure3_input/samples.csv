@@ -1,0 +1,49 @@
+ID	Sample name	Group	Cell number	cell origin
+A549_SC1	A549_SC1	A549	1	epithelial lung cell from carcinoma
+A549_SC2	A549_SC2	A549	2	epithelial lung cell from carcinoma
+A549_SC3	A549_SC3	A549	3	epithelial lung cell from carcinoma
+A549_SC4	A549_SC4	A549	4	epithelial lung cell from carcinoma
+A549_SC5	A549_SC5	A549	5	epithelial lung cell from carcinoma
+A549_SC6	A549_SC6	A549	6	epithelial lung cell from carcinoma
+BJ_SC1	BJ_SC1	BJ	1	fibroblast from healthy foreskin
+BJ_SC2	BJ_SC2	BJ	2	fibroblast from healthy foreskin
+BJ_SC3	BJ_SC3	BJ	3	fibroblast from healthy foreskin
+BJ_SC4	BJ_SC4	BJ	4	fibroblast from healthy foreskin
+BJ_SC5	BJ_SC5	BJ	5	fibroblast from healthy foreskin
+BJ_SC6	BJ_SC6	BJ	6	fibroblast from healthy foreskin
+HepG2_SC1	HepG2_SC1	HepG2	1	epithelial liver cell from hepatocellular carcinoma
+HepG2_SC2	HepG2_SC2	HepG2	2	epithelial liver cell from hepatocellular carcinoma
+HepG2_SC3	HepG2_SC3	HepG2	3	epithelial liver cell from hepatocellular carcinoma
+HepG2_SC4	HepG2_SC4	HepG2	4	epithelial liver cell from hepatocellular carcinoma
+HepG2_SC5	HepG2_SC5	HepG2	5	epithelial liver cell from hepatocellular carcinoma
+HepG2_SC6	HepG2_SC6	HepG2	6	epithelial liver cell from hepatocellular carcinoma
+HT29_SC1	HT29_SC1	HT29	1	epithelial colon cell from colorectal adenocarcinoma
+HT29_SC2	HT29_SC2	HT29	2	epithelial colon cell from colorectal adenocarcinoma
+HT29_SC3	HT29_SC3	HT29	3	epithelial colon cell from colorectal adenocarcinoma
+HT29_SC4	HT29_SC4	HT29	4	epithelial colon cell from colorectal adenocarcinoma
+HT29_SC5	HT29_SC5	HT29	5	epithelial colon cell from colorectal adenocarcinoma
+HT29_SC6	HT29_SC6	HT29	6	epithelial colon cell from colorectal adenocarcinoma
+Jurkat_SC1	Jurkat_SC1	Jurkat	1	T cell from acute T cell leucemia
+Jurkat_SC2	Jurkat_SC2	Jurkat	2	T cell from acute T cell leucemia
+Jurkat_SC3	Jurkat_SC3	Jurkat	3	T cell from acute T cell leucemia
+Jurkat_SC4	Jurkat_SC4	Jurkat	4	T cell from acute T cell leucemia
+Jurkat_SC5	Jurkat_SC5	Jurkat	5	T cell from acute T cell leucemia
+Jurkat_SC6	Jurkat_SC6	Jurkat	6	T cell from acute T cell leucemia
+KG1_SC1	KG1_SC1	KG1	1	makrophage from acute myelogenous leucemia
+KG1_SC2	KG1_SC2	KG1	2	makrophage from acute myelogenous leucemia
+KG1_SC3	KG1_SC3	KG1	3	makrophage from acute myelogenous leucemia
+KG1_SC4	KG1_SC4	KG1	4	makrophage from acute myelogenous leucemia
+KG1_SC5	KG1_SC5	KG1	5	makrophage from acute myelogenous leucemia
+KG1_SC6	KG1_SC6	KG1	6	makrophage from acute myelogenous leucemia
+REH_SC1	REH_SC1	REH	1	lymphoblast from acute lymphocytic leucemia
+REH_SC2	REH_SC2	REH	2	lymphoblast from acute lymphocytic leucemia
+REH_SC3	REH_SC3	REH	3	lymphoblast from acute lymphocytic leucemia
+REH_SC4	REH_SC4	REH	4	lymphoblast from acute lymphocytic leucemia
+REH_SC5	REH_SC5	REH	5	lymphoblast from acute lymphocytic leucemia
+REH_SC6	REH_SC6	REH	6	lymphoblast from acute lymphocytic leucemia
+THP-1_SC1	THP-1_SC1	THP-1	1	monocyte from acute monocytic leukemia
+THP-1_SC2	THP-1_SC2	THP-1	2	monocyte from acute monocytic leukemia
+THP-1_SC3	THP-1_SC3	THP-1	3	monocyte from acute monocytic leukemia
+THP-1_SC4	THP-1_SC4	THP-1	4	monocyte from acute monocytic leukemia
+THP-1_SC5	THP-1_SC5	THP-1	5	monocyte from acute monocytic leukemia
+THP-1_SC6	THP-1_SC6	THP-1	6	monocyte from acute monocytic leukemia
